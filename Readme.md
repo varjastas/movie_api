@@ -7,7 +7,7 @@ A simple Flask REST API to manage movies.
 1. Install Flask: `pip install Flask`
 2. Run `python database.py` to create the database.
 3. Run `python app.py`.
-4. You can populate your db with pregenerated movie objects by running populate_db.py
+4. You can populate your db with pregenerated movie objects by running `python populate_db.py`
 4. Visit http://127.0.0.1:5000/movies in your browser or use a tool like curl or Postman to test the API.
 
 
